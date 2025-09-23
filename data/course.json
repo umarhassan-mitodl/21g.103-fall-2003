@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "55afa7e3-807d-3849-743a-f6acf7d5a34b",
+  "instructors": {
+    "content": [
+      "d82e3897-e386-0049-b694-936646093242"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b30aa165-c6d8-5fbe-74e3-72b70fd179dd",
+    "website": "21g-103-chinese-iii-regular-fall-2003"
+  },
+  "course_title": "Chinese III (Regular)",
+  "course_description": "This course is designed to consolidate the foundation built in Elementary Chinese and continue developing students skills in aural comprehension, reading, and writing.\n\nUpon completion of the course, students should be able to speak Chinese with some fluency on basic conversational topics, achieve a basic level of reading competence within simplified and traditional characters learned plus common compounds, and be able to write short compositions.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.103",
+  "course_image_thumbnail": {
+    "content": "4d355c3b-8f03-086b-6e56-b95b3abbe015",
+    "website": "21g-103-chinese-iii-regular-fall-2003"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "814ac9d1-fa9a-498c-9cc7-da8e78986efc",
+  "site_short_id": "21g.103-fall-2003",
+  "site_url_path": "courses/21g-103-chinese-iii-regular-fall-2003",
+  "title": "Course Metadata"
+}
