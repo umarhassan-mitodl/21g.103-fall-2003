@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-class Activities
@@ -106,5 +108,5 @@ Reading Questions
 David and Helen
 ---------------
 
-{{% resource_link "fae926d9-ac59-4daf-a9cd-f7b0ece8b22d" "David and Helen in China" %}}  
+[David and Helen in China](http://www.columbia.edu/itc/ealac/zhang/dh/dh_audioclips.htm)  
 Supplementary Materials for David and Helen ({{% resource_link e38ed718-4ad3-0365-309e-a50ed9648270 "PDF" %}})

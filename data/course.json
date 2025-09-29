@@ -23,6 +23,7 @@
     "website": "21g-103-chinese-iii-regular-fall-2003"
   },
   "course_title": "Chinese III (Regular)",
+  "hide_download": true,
   "course_description": "This course is designed to consolidate the foundation built in Elementary Chinese and continue developing students skills in aural comprehension, reading, and writing.\n\nUpon completion of the course, students should be able to speak Chinese with some fluency on basic conversational topics, achieve a basic level of reading competence within simplified and traditional characters learned plus common compounds, and be able to write short compositions.\n",
   "department_numbers": [
     "21G"
@@ -33,6 +34,7 @@
     "content": "4d355c3b-8f03-086b-6e56-b95b3abbe015",
     "website": "21g-103-chinese-iii-regular-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Activity Assignments"
   ],

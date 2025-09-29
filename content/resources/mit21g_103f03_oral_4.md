@@ -4,6 +4,8 @@ description: This resource contains information regarding oral 4.
 file: /courses/21g-103-chinese-iii-regular-fall-2003/fbb7e9f6efd36111d8aa26137b4d9f67_MIT21G_103F03_oral_4.pdf
 file_size: 92066
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

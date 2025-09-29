@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -20,7 +22,7 @@ Oral Practice 6 ({{% resource_link 300f2ce7-e261-953f-7394-69a42a502dc7 "PDF" %}
 Character Practice
 ------------------
 
-{{% resource_link "ceca15bb-1020-4393-9f4f-820ce082eb99" "Character Practice Website" %}}  
+[Character Practice Website](http://www.mdbg.net/chindict/chindict.php?page=practice)  
 Character 1 ({{% resource_link f5e34808-f68e-d0ac-6694-611c15548a3c "Animated JPEG" %}})  
 Character 2 ({{% resource_link f32957e2-3d73-03d2-bfee-84234c4cca6c "Animated JPEG" %}})  
 Character 3 ({{% resource_link 29f495b9-abbf-5171-15bd-af0d25f4d237 "Animated JPEG" %}})  
